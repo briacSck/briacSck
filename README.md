@@ -14,12 +14,9 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 - 🏗️ **Building for public good and technical impact**: DeFi yield optimization for emerging countries, empirical AI research tools, decentralized reputation systems ...
 
 ### Research & Technical Focus
-**Economics**: Causal inference (DiD, event studies) • Platform & Digital economics • Crypto impact & Blockchain use-cases • AI policy impacts • Public economics
+**Economics**: Causal inference (DiD, event studies) • Digital & Platform economics • Crypto impact & Blockchain use-cases • AI policy impacts • Public economics & inequalities
 
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
-
-### Technical Focus
-(Digital) Economics • Blockchain/DeFi • Agentic AI • Causal Inference • Data Science
 
 ### Open To
 Pre-doctoral positions in tech/innovation/public/development economics • AI research residencies • PhD programs bridging economics and IT • Entrepreneurship programs
