@@ -7,21 +7,32 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 ![Stata](https://img.shields.io/badge/Stata-1A374D?style=for-the-badge&logo=stata&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Currently
 - 🧪 **Pre-doc researcher** @ IMT Business School (AI & data centers impacts, causal inference & applied micro)
 - 🚀 **Co-founder & COO** @ Compas'Sup (agentic AI for EdTech | Sciences Po incubator & STATION F)
 - 🏗️ **Building for public good and technical impact**: DeFi yield optimization for emerging countries, empirical AI research tools, decentralized reputation systems ...
 
-### Research & Technical Focus
+## Research & Technical Focus
 **Economics**: Causal inference (DiD, event studies) • Digital & Platform economics • Crypto impact & Blockchain use-cases • AI policy impacts • Public economics & inequalities
 
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
 
-### Open To
+## Open To
 Pre-doctoral positions in tech/innovation/public/development economics • AI research residencies • PhD programs bridging economics and IT • Entrepreneurship programs
 
-📫 briac@berkeley.edu | 📄 [Orcid Profile](https://orcid.org/0009-0001-5868-229X)
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/briac-sockalingum-student-sciences-politiques-blockchain-technology-economics-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:briac@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0001-5868-229X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+</p>
+
+<p align="center"><samp>
+Check out my repositories below to dive deeper into my work on digital economics & my journey building impactful tech ⬇️  
+</samp></p>
+
 <!--
 <### Featured Projects 👇
 [Your 5-6 pinned repos with one-line hooks]>
