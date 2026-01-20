@@ -32,6 +32,7 @@ Pre-doctoral positions in tech/innovation/public/development economics • AI re
 <p align="center">
   <a href="https://www.linkedin.com/in/briac-sockalingum-student-sciences-politiques-blockchain-technology-economics-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:briac@berkeley.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://briacsck.github.io/briacSck/Briac_Sockalingum___CV_January_2026___Github.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
   <a href="https://orcid.org/0009-0001-5868-229X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 </p>
 
