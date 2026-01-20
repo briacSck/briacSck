@@ -15,6 +15,7 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 
 ### Research & Technical Focus
 **Economics**: Causal inference (DiD, event studies) • Platform & Digital economics • Crypto impact & Blockchain use-cases • AI policy impacts • Public economics
+
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
 
 ### Technical Focus
