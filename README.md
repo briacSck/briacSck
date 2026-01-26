@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Briac Sockalingum - Entrepreneur & Predoctoral Economist</b>
+  <b>Briac Sockalingum - Predoctoral Economist</b>
 </h1> 
 
 Early-career technologist-economist | Building AI x blockchain products + researching their economic impacts and optimal designs
