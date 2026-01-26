@@ -26,7 +26,7 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
 
 ## Open To
-Pre-doctoral positions in tech/innovation/public/development economics • AI research residencies • PhD programs bridging economics and IT • Entrepreneurship programs
+• Pre-doctoral positions in tech/innovation/public/development economics • AI research residencies • PhD programs bridging economics and IT • Entrepreneurship programs
 
 ## 🤝 Let's Connect
 <p align="center">
