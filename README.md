@@ -26,14 +26,17 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 
 
 ### Currently
-- 🧪 **Pre-doc researcher** @ IMT Business School (AI & data centers impacts, causal inference & applied micro)
-- 🚀 **Co-founder & COO** @ Compas'Sup (agentic AI for EdTech | Sciences Po incubator & STATION F)
+- 🚀 **Co-founder & CEO** @ YIELD (FinTech software to help SMBs optimize their treasury automatically | Founders Inc Canopy & Sciences Po incubator)
 - 🏗️ **Building for public good and technical impact**: DeFi yield optimization for emerging countries, empirical AI research tools, decentralized reputation systems ...
 
 ## Research & Technical Focus
 **Economics**: Causal inference (DiD, event studies) • Digital & Platform economics • Crypto impact & Blockchain use-cases • AI policy impacts • Public economics & inequalities
 
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
+
+## Previously
+- 🧪 **Pre-doc researcher & RA ** @ Oxford Business School (LLM-based research workflows for quantitative assessment of management articles' results) & IMT Business School (AI & data centers impacts, causal inference & applied micro)
+- 🚀 **Co-founder & COO** @ Compas'Sup (agentic AI for EdTech | Sciences Po incubator & STATION F)
 
 ## Open To
 - Pre-doctoral positions in tech/innovation/public/development economics • AI research residencies 
