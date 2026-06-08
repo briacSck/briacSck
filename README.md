@@ -35,7 +35,7 @@ Early-career technologist-economist | Building AI x blockchain products + resear
 **Tech**: Blockchain/DeFi (Web3 & FinTech) • Agentic AI (MCP, RAG, LLM fine-tuning) • Data science • Production systems
 
 ## Previously
-- 🧪 **Pre-doc researcher & RA ** @ Oxford Business School (LLM-based research workflows for quantitative assessment of management articles' results) & IMT Business School (AI & data centers impacts, causal inference & applied micro)
+- 🧪 **Pre-doc researcher & RA** @ Oxford Business School (LLM-based research workflows for quantitative assessment of management articles' results) & IMT Business School (AI & data centers impacts, causal inference & applied micro)
 - 🚀 **Co-founder & COO** @ Compas'Sup (agentic AI for EdTech | Sciences Po incubator & STATION F)
 
 ## Open To
